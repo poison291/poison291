@@ -1,3 +1,4 @@
+![logo](https://github.com/poison291/poison291/blob/main/Blue%20Illustration%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Poison</h1>
 <h3 align="center">A aspiring web developer from Nepal</h3>
 
