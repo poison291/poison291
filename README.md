@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poison291&" alt="poison291" /></p>
 
-![snake gif](https://github.com/poison291/poison291/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/poison291/poison291/blob/output/github-contribution-grid-snake.svg)
