@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
 
-- 🔭 I’m currently working on [Anime website](https://github.com/poison291/Anime-website.git)
+- 🔭 I’m currently working on [Code wave](https://github.com/poison291/Anime-website.git)
 
 - 🌱 I’m currently learning **Docker, PhP**
 
-- 👯 I’m looking to collaborate on [Anime website](https://github.com/poison291/Anime-website.git)
+- 👯 I’m looking to collaborate on [Code wave](https://github.com/poison291/Anime-website.git)
 
 - 💬 Ask me about **HTML, CSS ,Javascript,Figma,Git bash**
 
