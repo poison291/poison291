@@ -9,6 +9,9 @@
 
 - 🌱 I’m currently learning **C, Js**
 
+
+- ⚡ Fun fact **I Am !Not LAzY**
+
 - 👯 I’m looking to collaborate on [Code wave](https://github.com/poison291/Code-wave)
 
 - 💬 Ask me about **HTML, CSS ,Javascript,Figma,Git bash**
