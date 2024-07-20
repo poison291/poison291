@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
 
-- 🔭 I’m currently working on [Code wave](https://github.com/poison291/Code-wave)
 
-- 🌱 I’m currently learning **Docker, PhP**
+- 🌱 I’m currently learning **C, Js**
 
 - 👯 I’m looking to collaborate on [Code wave](https://github.com/poison291/Code-wave)
 
