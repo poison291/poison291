@@ -27,4 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poison291&" alt="poison291" /></p>
 
+<img src="https://raw.githubusercontent.com/poison291/poison291/output/snake.svg" alt="Snake animation" />
+
 
