@@ -1,6 +1,6 @@
 ![logo](https://github.com/poison291/poison291/blob/main/Blue%20Illustration%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Poison</h1>
-<h3 align="center">A aspiring web developer from Nepal</h3>
+<h3 align="center">A Code Enthusiast from !Null</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952wh8365fccfaxxdjd5kfncn660lhdewobbr28hf1i&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
