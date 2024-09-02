@@ -7,12 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
 
 
-- 🌱 I’m currently learning **C, Js, Java**
+- 🌱 I’m currently learning **Java**
 
 
 - ⚡ Fun fact **I Am !Not LAzY**
 
-- 👯 I’m looking to collaborate on [Code wave](https://github.com/poison291/Code-wave)
+- I’m looking to collaborate on Code Wave[Email ME](mailto:shahsusan291@gmail.com?subject=Collaboration%20Request&body=Hi%20Poison,%0D%0AI%20would%20like%20to%20collaborate%20with%20you%20on%20your%20GitHub%20projects.%20Please%20let%20me%20know%20how%20I%20can%20contribute!)
+
 
 - 💬 Ask me about **HTML, CSS ,Javascript,Figma,Git bash, C**
 
