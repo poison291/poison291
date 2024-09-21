@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 
 - ⚡ Fun fact **I Am !Not LAzY**
@@ -15,7 +15,7 @@
 - I’m looking to collaborate on Code Wave [Email ME](mailto:shahsusan291@gmail.com?subject=Collaboration%20Request&body=Hi%20Poison,%0D%0AI%20would%20like%20to%20collaborate%20with%20you%20on%20your%20GitHub%20projects.%20Please%20let%20me%20know%20how%20I%20can%20contribute!)
 
 
-- 💬 Ask me about **HTML, CSS ,Javascript,Figma,Git bash, C**
+- 💬 Ask me about **HTML, CSS ,Javascript,Figma,Git bash,Java,C**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p><p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
