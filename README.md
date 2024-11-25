@@ -7,16 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
 
-- 🌱 I’m currently learning **React**
-- ⚡ Fun fact **I Am !Not LAzY**
-- I’m looking to collaborate on Code Wave [Email ME](mailto:shahsusan291@gmail.com?subject=Collaboration%20Request&body=Hi%20Poison,%0D%0AI%20would%20like%20to%20collaborate%20with%20you%20on%20your%20GitHub%20projects.%20Please%20let%20me%20know%20how%20I%20can%20contribute!)
-- 💬 Ask me about **HTML, CSS, JavaScript, Figma, Git, Java**
+- 🌱 I’m currently learning **React**  
+- 👨‍💻 "Code is like humor. When you have to explain it, it’s bad."  
+- 💬 Ask me about **Java, Python, React.js, HTML, CSS, Tailwind CSS, Figma, C, Git**
 
 ## 🌟 Languages and Tools:
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+ 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -50,6 +47,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+
 </p>
 
 ## 📊 Stats:
