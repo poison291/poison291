@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
 
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **React⚛️, MongoDB🍃**  
 - 👨‍💻 "Code is like humor. When you have to explain it, it’s bad."  
 - 💬 Ask me about **Java, Python, React.js, HTML, CSS, Tailwind CSS, Figma, C, Git**
 
