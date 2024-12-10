@@ -6,6 +6,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poison291&label=Profile%20views&color=0e75b6&style=flat" alt="poison291" /> </p>
+<p> <img src="https://wakatime.com/badge/user/ecb33922-6927-4162-910c-29df0021c3ee.svg"/></p>
 
 - 🌱 I’m currently learning **React⚛️, MongoDB🍃**  
 - 👨‍💻 "Code is like humor. When you have to explain it, it’s bad."  
