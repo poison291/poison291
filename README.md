@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Susan
 
-I'm a full-stack web developer who works with modern JavaScript frameworks and backend tools.  
-I focus on building clean interfaces, reliable APIs, and well-structured databases.  
-Most of my learning comes from hands-on projects and solving real problems.  
+I'm a full-stack web developer who loves **building projects from scratch**, from clean interfaces to robust backends.  
+I work with modern JavaScript frameworks and backend tools, focusing on **well-structured databases, reliable APIs, and intuitive user experiences**.  
+Most of my learning comes from hands-on projects and solving real problems.
 
 ---
 
@@ -29,13 +29,13 @@ Git • GitHub • GitHub Actions
 ---
 
 ## 🎯 What I Value
-- Keeping code simple and easy to maintain  
-- Writing APIs that are clear and predictable  
-- Databases that scale without becoming messy  
-- Learning by building, not just reading  
+- Building projects **from scratch** and learning by doing  
+- Keeping code simple, readable, and maintainable  
+- Writing APIs that are clear, predictable, and scalable  
+- Designing databases that scale without becoming messy  
 
 ---
 
 <p align="center">
-  <sub>Profile written to stay simple and to the point.</sub>
+  <sub>Profile written to stay simple, clear, and focused on hands-on building.</sub>
 </p>
